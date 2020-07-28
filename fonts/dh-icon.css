@@ -1,10 +1,10 @@
 @font-face {
     font-family: "dh-icon";
-    src: url("./dh-icon.eot?465c833220b8c66a70a71a919e84782b?#iefix") format("embedded-opentype"),
-url("./dh-icon.woff2?465c833220b8c66a70a71a919e84782b") format("woff2"),
-url("./dh-icon.woff?465c833220b8c66a70a71a919e84782b") format("woff"),
-url("./dh-icon.ttf?465c833220b8c66a70a71a919e84782b") format("truetype"),
-url("./dh-icon.svg?465c833220b8c66a70a71a919e84782b#dh-icon") format("svg");
+    src: url("./dh-icon.eot?d4f7befc5bd24eb8d666fd9e42f7d862?#iefix") format("embedded-opentype"),
+url("./dh-icon.woff2?d4f7befc5bd24eb8d666fd9e42f7d862") format("woff2"),
+url("./dh-icon.woff?d4f7befc5bd24eb8d666fd9e42f7d862") format("woff"),
+url("./dh-icon.ttf?d4f7befc5bd24eb8d666fd9e42f7d862") format("truetype"),
+url("./dh-icon.svg?d4f7befc5bd24eb8d666fd9e42f7d862#dh-icon") format("svg");
 }
 
 i[class^="icon-"]:before, i[class*=" icon-"]:before {
