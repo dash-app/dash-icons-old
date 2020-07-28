@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "dh-icon";
+    src: url("./dh-icon.eot?465c833220b8c66a70a71a919e84782b?#iefix") format("embedded-opentype"),
+url("./dh-icon.woff2?465c833220b8c66a70a71a919e84782b") format("woff2"),
+url("./dh-icon.woff?465c833220b8c66a70a71a919e84782b") format("woff"),
+url("./dh-icon.ttf?465c833220b8c66a70a71a919e84782b") format("truetype"),
+url("./dh-icon.svg?465c833220b8c66a70a71a919e84782b#dh-icon") format("svg");
+}
+
+i[class^="icon-"]:before, i[class*=" icon-"]:before {
+    font-family: dh-icon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Aircon:before {
+    content: "\f101";
+}
+.icon-Fan:before {
+    content: "\f102";
+}
+.icon-Horizontal_Vane:before {
+    content: "\f103";
+}
+.icon-Level:before {
+    content: "\f104";
+}
+.icon-Vertical_Vane:before {
+    content: "\f105";
+}
